@@ -1,3 +1,3 @@
 # Coursera
 E-learning
-Course from courseera
+Course from coursera
